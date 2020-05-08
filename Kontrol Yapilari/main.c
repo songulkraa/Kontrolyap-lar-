@@ -5,7 +5,7 @@ int main()
 {
     setlocale(LC_ALL,"Turkish");
 
-   /* int boy;
+    int boy;
     printf("lütfen boyunuzu cm cinsinden giriniz..\n");
     scanf("%d",&boy);
     if (boy < 155 ) {
@@ -32,11 +32,11 @@ int main()
     else if(kilo>70){
             printf("kilonuz normalin ustunde lutfen dikkat ediniz..\n");
 
-}  */
+}  
 
 
 
-/*
+
         int sayi;
         printf("bir sayi giriniz..\n");
         scanf("%d ",&sayi);
@@ -48,11 +48,11 @@ int main()
         } else {
         printf("sayi onaltiya bolunemiyor..");
         }
-*/
 
 
 
-/*
+
+
         char cinsiyet;
         printf("lutfen cinsiyetinizi belirtiniz.. E/K..");
         scanf("%c",&cinsiyet);
@@ -65,7 +65,7 @@ int main()
            }
            else {
             printf("cinsiyet belirtmeniz gerekmektedir..");
-           }*/
+           }
 
 
 

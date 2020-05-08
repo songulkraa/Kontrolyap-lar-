@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588802049 source:c:\users\songÜl\desktop\ÇaliŞmalarim\kontrol yapıları\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
